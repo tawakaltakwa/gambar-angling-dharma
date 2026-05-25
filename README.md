@@ -1,2 +1,2 @@
 # Angling Dharma
-![Angling Dharma](angling dharma1.png)
+![Angling Dharma](anglingdharma1.png)
